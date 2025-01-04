@@ -1,4 +1,4 @@
-# arxiv-text-classification
+# Arxiv 文献分类任务
 
 ## 项目简介
 本项目为 Arxiv 上的文献分类任务
@@ -10,19 +10,19 @@
 
 数据集特征如下：
 
-| Class name | Number of documents | Average words |
+| 类别名称 | 文档数量 | 平均字数 |
 |--|--|--|
-| cs.AI ( Artificial Intelligence) | 2995 | 6212 |
-| cs.CE (Computational Engineering) | 2505 | 5777 |
-| cs.CV (Computer Vision) | 2525 | 5630 |
-| cs.DS (Data Structures) | 4136 | 7439 |
-| cs.IT (Information Theory ) | 3233 | 5938 |
-| cs.NE (Neural and Evolutionary) | 3012 | 5856 |
-| cs.PL (Programming Languages) | 2901 | 7012 |
-| cs.SY (Systems and Control) | 3106 | 5948 |
-| math.AC (Commutative Algebra ) | 2885 | 5984 |
-| math.GR (Group Theory) | 3065 | 6642 |
-| math.ST (Statistics Theory) | 6025 | 6983 |
+| cs.AI（人工智能） | 2995 | 6212 |
+| cs.CE（计算工程） | 2505 | 5777 |
+| cs.CV（计算机视觉） | 2525 | 5630 |
+| cs.DS（数据结构） | 4136 | 7439 |
+| cs.IT（信息理论） | 3233 | 5938 |
+| cs.NE（神经与进化） | 3012 | 5856 |
+| cs.PL（编程语言） | 2901 | 7012 |
+| cs.SY（系统与控制） | 3106 | 5948 |
+| math.AC（交换代数） | 2885 | 5984 |
+| math.GR（群论） | 3065 | 6642 |
+| math.ST（统计理论） | 6025 | 6983 |
 
 ## 项目流程
 
