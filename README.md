@@ -30,3 +30,7 @@
 - 微调 LongFormer 长文本分类预训练模型（分类结果可以用混淆矩阵展示）
 - 有时间可以比较不同预训练模型的效果（macro-F1）
 
+## 项目结构
+
+- abstract: 使用 TF-IDF 和 TextRank 算法生成最后的模型输入
+- classification: 使用 LongFormer，BERT，RoBERTa 进行文本分类
